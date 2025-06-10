@@ -6,10 +6,10 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.3.5</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/> <!-- lookup parent from repository -->  
     </parent>
     <groupId>com.pxx</groupId>
-    <artifactId>tohear-server</artifactId>
+    <artifactId>iFM-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>iFM-server</name>
     <description>iFM-server</description>
@@ -34,8 +34,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
-
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
